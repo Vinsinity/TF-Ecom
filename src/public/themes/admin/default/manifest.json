@@ -1,0 +1,97 @@
+{
+  "assets/css/sleek.css": {
+    "file": "assets/sleek-41090973.css",
+    "isEntry": true,
+    "src": "assets/css/sleek.css"
+  },
+  "assets/js/chart.js": {
+    "file": "assets/chart-fa22268e.js",
+    "isEntry": true,
+    "src": "assets/js/chart.js"
+  },
+  "assets/js/date-range.js": {
+    "file": "assets/date-range-c94b62b0.js",
+    "isEntry": true,
+    "src": "assets/js/date-range.js"
+  },
+  "assets/js/sleek.js": {
+    "file": "assets/sleek-090eaaf0.js",
+    "isEntry": true,
+    "src": "assets/js/sleek.js"
+  },
+  "assets/plugins/bootstrap/js/bootstrap.bundle.min.js": {
+    "file": "assets/bootstrap.bundle.min-d50f81ac.js",
+    "isEntry": true,
+    "src": "assets/plugins/bootstrap/js/bootstrap.bundle.min.js"
+  },
+  "assets/plugins/charts/Chart.min.js": {
+    "file": "assets/Chart.min-27865f51.js",
+    "isEntry": true,
+    "src": "assets/plugins/charts/Chart.min.js"
+  },
+  "assets/plugins/daterangepicker/daterangepicker.css": {
+    "file": "assets/daterangepicker-4ac977b1.css",
+    "isEntry": true,
+    "src": "assets/plugins/daterangepicker/daterangepicker.css"
+  },
+  "assets/plugins/daterangepicker/daterangepicker.js": {
+    "file": "assets/daterangepicker-415251a1.js",
+    "isEntry": true,
+    "src": "assets/plugins/daterangepicker/daterangepicker.js"
+  },
+  "assets/plugins/daterangepicker/moment.min.js": {
+    "file": "assets/moment.min-392e4bd6.js",
+    "isEntry": true,
+    "src": "assets/plugins/daterangepicker/moment.min.js"
+  },
+  "assets/plugins/jquery/jquery.min.js": {
+    "file": "assets/jquery.min-302b6723.js",
+    "isEntry": true,
+    "src": "assets/plugins/jquery/jquery.min.js"
+  },
+  "assets/plugins/jvectormap/jquery-jvectormap-2.0.3.css": {
+    "file": "assets/jquery-jvectormap-2.0.3-dd01129f.css",
+    "isEntry": true,
+    "src": "assets/plugins/jvectormap/jquery-jvectormap-2.0.3.css"
+  },
+  "assets/plugins/jvectormap/jquery-jvectormap-2.0.3.min.js": {
+    "file": "assets/jquery-jvectormap-2.0.3.min-3991bf33.js",
+    "isEntry": true,
+    "src": "assets/plugins/jvectormap/jquery-jvectormap-2.0.3.min.js"
+  },
+  "assets/plugins/jvectormap/jquery-jvectormap-world-mill.js": {
+    "file": "assets/jquery-jvectormap-world-mill-60734f6d.js",
+    "isEntry": true,
+    "src": "assets/plugins/jvectormap/jquery-jvectormap-world-mill.js"
+  },
+  "assets/plugins/nprogress/nprogress.css": {
+    "file": "assets/nprogress-8b89e2e0.css",
+    "isEntry": true,
+    "src": "assets/plugins/nprogress/nprogress.css"
+  },
+  "assets/plugins/nprogress/nprogress.js": {
+    "file": "assets/nprogress-33c407b3.js",
+    "isEntry": true,
+    "src": "assets/plugins/nprogress/nprogress.js"
+  },
+  "assets/plugins/simplebar/simplebar.css": {
+    "file": "assets/simplebar-42af2418.css",
+    "isEntry": true,
+    "src": "assets/plugins/simplebar/simplebar.css"
+  },
+  "assets/plugins/simplebar/simplebar.min.js": {
+    "file": "assets/simplebar.min-fccbdc2d.js",
+    "isEntry": true,
+    "src": "assets/plugins/simplebar/simplebar.min.js"
+  },
+  "assets/plugins/toastr/toastr.min.css": {
+    "file": "assets/toastr.min-84535efd.css",
+    "isEntry": true,
+    "src": "assets/plugins/toastr/toastr.min.css"
+  },
+  "assets/plugins/toastr/toastr.min.js": {
+    "file": "assets/toastr.min-d73d3896.js",
+    "isEntry": true,
+    "src": "assets/plugins/toastr/toastr.min.js"
+  }
+}

@@ -1,0 +1,12 @@
+mysql
+.DS_Store
+.idea
+
+# Project exclude paths
+/src/public/themes/admin/porto/assets/vendor/simple-line-icons/node_modules/
+/src/resources/themes/admin/default/node_modules/
+/src/resources/themes/admin/test/node_modules/
+/src/resources/themes/frontend/default/node_modules/
+/src/resources/themes/frontend/test/node_modules/
+/src/resources/themes/frontend/test/node_modules/concat/index.js
+/src/resources/themes/frontend/test/node_modules/fastest-levenshtein/test.js

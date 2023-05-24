@@ -1,0 +1,57 @@
+{
+    "general": {
+        "icon" : "bx bx-cog",
+        "settings" : [
+            {
+                "name": "Logo",
+                "type": "file",
+                "path": "themes/frontend/molla/assets/logo.png"
+            }
+        ],
+        "status": 1
+    },
+    "product": {
+        "icon" : "bx bx-store",
+        "settings" : [],
+        "status": 1
+    },
+    "category": {
+        "icon" : "bx bxs-category",
+        "settings" : [],
+        "status": 1
+    },
+    "header": {
+        "icon" : "bx bx-dock-top",
+        "settings" : [
+            {
+                "name": "Menu",
+                "type": "dragdrop",
+                "component": "header-menu-component"
+            }
+        ],
+        "status": 1
+    },
+    "home": {
+        "icon" : "bx bx-home-alt",
+        "settings" : [],
+        "status": 1
+    },
+    "footer": {
+        "icon" : "bx bx-dock-bottom",
+        "settings" : [],
+        "status": 1
+    },
+    "payment": {
+        "icon" : "bx bxs-wallet-alt",
+        "settings" : [],
+        "status": 1
+    },
+    "appearance": {
+        "icon" : "bx bx-palette",
+        "settings" : [],
+        "status": 1
+    },
+    "asd": {
+
+    }
+}

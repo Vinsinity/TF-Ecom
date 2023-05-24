@@ -1,0 +1,13 @@
+{
+    "name": "Porto Theme",
+    "author": "PuzzleVin",
+    "general": [
+        {
+            "name": "Logo",
+            "type": "file",
+            "path": "themes/admin/porto/assets/logo.png"
+        }
+    ],
+    "homepage": [],
+    "header": []
+}

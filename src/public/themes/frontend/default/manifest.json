@@ -1,0 +1,144 @@
+{
+  "assets/app.css": {
+    "file": "assets/app-a9a30848.css",
+    "isEntry": true,
+    "src": "assets/app.css"
+  },
+  "assets/css/bootstrap.min.css": {
+    "file": "assets/bootstrap.min-ed5289fd.css",
+    "isEntry": true,
+    "src": "assets/css/bootstrap.min.css"
+  },
+  "assets/css/custom.css": {
+    "file": "assets/custom-e3b0c442.css",
+    "isEntry": true,
+    "src": "assets/css/custom.css"
+  },
+  "assets/css/fontawesome.min.css": {
+    "file": "assets/fontawesome.min-28a5b5ec.css",
+    "isEntry": true,
+    "src": "assets/css/fontawesome.min.css"
+  },
+  "assets/css/templatemo.css": {
+    "file": "assets/templatemo-d4828114.css",
+    "isEntry": true,
+    "src": "assets/css/templatemo.css"
+  },
+  "assets/js/bootstrap.bundle.min.js": {
+    "file": "assets/bootstrap.bundle.min-a44f6b58.js",
+    "isEntry": true,
+    "src": "assets/js/bootstrap.bundle.min.js"
+  },
+  "assets/js/custom.js": {
+    "file": "assets/custom-4ed993c7.js",
+    "isEntry": true,
+    "src": "assets/js/custom.js"
+  },
+  "assets/js/jquery-1.11.0.min.js": {
+    "file": "assets/jquery-1.11.0.min-807feb43.js",
+    "isEntry": true,
+    "src": "assets/js/jquery-1.11.0.min.js"
+  },
+  "assets/js/jquery-migrate-1.2.1.min.js": {
+    "file": "assets/jquery-migrate-1.2.1.min-7bf2d462.js",
+    "isEntry": true,
+    "src": "assets/js/jquery-migrate-1.2.1.min.js"
+  },
+  "assets/js/templatemo.js": {
+    "file": "assets/templatemo-ad1d1643.js",
+    "isEntry": true,
+    "src": "assets/js/templatemo.js"
+  },
+  "assets/webfonts/fa-brands-400.eot": {
+    "file": "assets/fa-brands-400-6128dd44.eot",
+    "src": "assets/webfonts/fa-brands-400.eot"
+  },
+  "assets/webfonts/fa-brands-400.svg": {
+    "file": "assets/fa-brands-400-e2749cb2.svg",
+    "src": "assets/webfonts/fa-brands-400.svg"
+  },
+  "assets/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-404d6083.ttf",
+    "src": "assets/webfonts/fa-brands-400.ttf"
+  },
+  "assets/webfonts/fa-brands-400.woff": {
+    "file": "assets/fa-brands-400-a0375c05.woff",
+    "src": "assets/webfonts/fa-brands-400.woff"
+  },
+  "assets/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-71b3ce72.woff2",
+    "src": "assets/webfonts/fa-brands-400.woff2"
+  },
+  "assets/webfonts/fa-regular-400.eot": {
+    "file": "assets/fa-regular-400-f9853ad3.eot",
+    "src": "assets/webfonts/fa-regular-400.eot"
+  },
+  "assets/webfonts/fa-regular-400.svg": {
+    "file": "assets/fa-regular-400-d42a64dc.svg",
+    "src": "assets/webfonts/fa-regular-400.svg"
+  },
+  "assets/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-5e811f0b.ttf",
+    "src": "assets/webfonts/fa-regular-400.ttf"
+  },
+  "assets/webfonts/fa-regular-400.woff": {
+    "file": "assets/fa-regular-400-6799c999.woff",
+    "src": "assets/webfonts/fa-regular-400.woff"
+  },
+  "assets/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-ce20ed8a.woff2",
+    "src": "assets/webfonts/fa-regular-400.woff2"
+  },
+  "assets/webfonts/fa-solid-900.eot": {
+    "file": "assets/fa-solid-900-e0e3c4af.eot",
+    "src": "assets/webfonts/fa-solid-900.eot"
+  },
+  "assets/webfonts/fa-solid-900.svg": {
+    "file": "assets/fa-solid-900-1a46e780.svg",
+    "src": "assets/webfonts/fa-solid-900.svg"
+  },
+  "assets/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-2caded24.ttf",
+    "src": "assets/webfonts/fa-solid-900.ttf"
+  },
+  "assets/webfonts/fa-solid-900.woff": {
+    "file": "assets/fa-solid-900-aab971ad.woff",
+    "src": "assets/webfonts/fa-solid-900.woff"
+  },
+  "assets/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-6b555920.woff2",
+    "src": "assets/webfonts/fa-solid-900.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-20c4a58b.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-74833209.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-528d022d.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-8e7e5ea1.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-67a65763.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-7152a693.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf": {
+    "file": "assets/fa-v4compatibility-0515a423.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2": {
+    "file": "assets/fa-v4compatibility-694a17c3.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2"
+  }
+}

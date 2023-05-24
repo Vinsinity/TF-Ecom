@@ -1,0 +1,26 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "bootstrap": "^5.2.3",
+        "chart.js": "^4.3.0",
+        "daterangepicker": "^3.1.0",
+        "jquery": "^3.6.4",
+        "jvectormap": "^2.0.4",
+        "laravel-mix": "^6.0.49",
+        "laravel-vite-plugin": "^0.7.2",
+        "nprogress": "^1.0.0-1",
+        "sass": "^1.62.1",
+        "simplebar": "^6.2.5",
+        "toastr": "^2.1.4",
+        "vite": "^4.0.0",
+        "vite-plugin-static-copy": "^0.14.0"
+    },
+    "dependencies": {
+        "saas": "^1.0.0"
+    }
+}

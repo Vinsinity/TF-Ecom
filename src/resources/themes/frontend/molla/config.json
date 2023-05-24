@@ -1,0 +1,13 @@
+{
+    "name": "TF-Ecom Molla Theme",
+    "author": "PuzzleVin",
+    "general": [
+        {
+            "name": "Logo",
+            "type": "file",
+            "path": "themes/frontend/molla/assets/logo.png"
+        }
+    ],
+    "homepage": [],
+    "header": []
+}

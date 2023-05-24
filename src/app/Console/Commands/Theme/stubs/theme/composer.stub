@@ -1,0 +1,4 @@
+{
+    "name": "laravel/{{ name }}",
+    "type": "theme"
+}
